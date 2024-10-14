@@ -39,16 +39,9 @@ echo '<script>alert("Your current password is wrong")</script>';
        
         <title>IFSC Code Finder Portal :: Change Password</title>
 
-        <!-- Switchery css -->
         <link href="../plugins/switchery/switchery.min.css" rel="stylesheet" />
-
-        <!-- Bootstrap CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-
-        <!-- App CSS -->
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-
-        <!-- Modernizr js -->
       <script type="text/javascript">
 function checkpass()
 {
@@ -135,17 +128,12 @@ return true;
 
         </div> <!-- End wrapper -->
 
-        <!-- jQuery  -->
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <script src="assets/js/waves.js"></script>
         <script src="assets/js/jquery.nicescroll.js"></script>
         <script src="../plugins/switchery/switchery.min.js"></script>
-
-        <!-- Validation js (Parsleyjs) -->
         <script src="../plugins/parsleyjs/parsley.min.js"></script>
-
-        <!-- App js -->
         <script src="assets/js/jquery.core.js"></script>
         <script src="assets/js/jquery.app.js"></script>
 
