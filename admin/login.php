@@ -12,13 +12,8 @@ include('includes/dbconnection.php');
        
         <title>Food Management Portal| Login</title>
 
-        <!-- Bootstrap CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-
-        <!-- App CSS -->
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-
-        <!-- Modernizr js -->
         <script src="assets/js/modernizr.min.js"></script>
 
     </head>
@@ -79,10 +74,7 @@ include('includes/dbconnection.php');
                                     <a href="forgot-password.php" class="text-muted"><i class="fa fa-lock m-r-5"></i> Forgot your password?</a>
                                 </div>
                             </div>
-
-                     
-
-
+                            
                         </form>
 
                     </div>
@@ -90,20 +82,15 @@ include('includes/dbconnection.php');
                     <div class="clearfix"></div>
                 </div>
             </div>
-            <!-- end card-box-->
 
 
         </div>
-        <!-- end wrapper page -->
-        <!-- jQuery  -->
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <script src="assets/js/detect.js"></script>
         <script src="assets/js/waves.js"></script>
         <script src="assets/js/jquery.nicescroll.js"></script>
         <script src="../plugins/switchery/switchery.min.js"></script>
-
-        <!-- App js -->
         <script src="assets/js/jquery.core.js"></script>
         <script src="assets/js/jquery.app.js"></script>
 
