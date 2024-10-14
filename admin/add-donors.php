@@ -37,18 +37,11 @@ echo "<script>window.location.href ='add-donors.php'</script>";
     <head>
        
         <title>Food Waste Usage Management Portal :: Add Donors</title>
-
-        <!-- Switchery css -->
+	    
         <link href="../plugins/switchery/switchery.min.css" rel="stylesheet" />
-
-        <!-- Bootstrap CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-
-        <!-- App CSS -->
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-
-        <!-- Modernizr js -->
-       
+	    
     </head>
 
 
