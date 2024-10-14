@@ -46,7 +46,7 @@ $query=mysqli_query($dbh,$sql);
         <div class="wrapper">
             <div class="container">
 
-                <!-- Page-Title -->
+                
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="page-title-box">
@@ -55,7 +55,7 @@ $query=mysqli_query($dbh,$sql);
                         </div>
                     </div>
                 </div>
-                <!-- end row -->
+                
 
 
                 <div class="row">
@@ -131,7 +131,7 @@ if($rowcount > 0)
 
 <?php include_once('includes/footer.php');?>
 
-        </div> <!-- End wrapper -->
+        </div> 
 
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
