@@ -139,8 +139,8 @@ $cnt=$cnt+1;
                 </div>
                
                
-            </div> <!-- row -->
-        </div> <!-- container -->
+            </div> 
+        </div> 
     </section>
     
     <footer id="footer" class="footer-area bg_cover" style="background-image: url(assets/images/footer-bg.jpg)">
@@ -151,13 +151,8 @@ $cnt=$cnt+1;
         </div> <!-- container -->
     </footer>
     
-    <!--====== FOOTER PART ENDS ======-->
-    
-    <!--====== BACK TOP TOP PART START ======-->
-
     <a href="#" class="back-to-top"><i class="lni-chevron-up"></i></a>
 
-    <!--====== BACK TOP TOP PART ENDS ======-->  
 <script type="text/javascript">
     function myFunction() {
   /* Get the text field */
