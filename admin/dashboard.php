@@ -12,22 +12,12 @@ if (strlen($_SESSION['ifscaid']==0)) {
   ?><!doctype html>
 <html lang="en">
 
-        <!-- App title -->
         <title>User Excess Donors Portall || Dashboard</title>
 
-        <!--Morris Chart CSS -->
         <link rel="stylesheet" href="../plugins/morris/morris.css">
-
-        <!-- Switchery css -->
         <link href="../plugins/switchery/switchery.min.css" rel="stylesheet" />
-
-        <!-- Bootstrap CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-
-        <!-- App CSS -->
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-
-        <!-- Modernizr js -->
         <script src="assets/js/modernizr.min.js"></script>
 
     </head>
@@ -37,15 +27,9 @@ if (strlen($_SESSION['ifscaid']==0)) {
     <body>
 <?php include_once('includes/header.php');?>
 
-
-
-        <!-- ============================================================== -->
-        <!-- Start right Content here -->
-        <!-- ============================================================== -->
         <div class="wrapper">
             <div class="container">
 
-                <!-- Page-Title -->
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="page-title-box">
@@ -71,47 +55,25 @@ if (strlen($_SESSION['ifscaid']==0)) {
                             <a href="manage-donors.php"><span class="badge badge-success"> View Detail </span></a> 
                         </div>
                     </div>
-
-                   
-
-               
-
-                  
                 </div>
-                <!-- end row -->
 
-
-               
-
-            </div> <!-- container -->
+            </div> 
 
 <?php include_once('includes/footer.php');?>
             
-            
+             </div> 
 
 
-        </div> <!-- End wrapper -->
-
-
-        <!-- jQuery  -->
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <script src="assets/js/waves.js"></script>
         <script src="assets/js/jquery.nicescroll.js"></script>
         <script src="../plugins/switchery/switchery.min.js"></script>
-
-        <!--Morris Chart-->
         <script src="../plugins/morris/morris.min.js"></script>
         <script src="../plugins/raphael/raphael.min.js"></script>
-
-        <!-- Counter Up  -->
         <script src="../plugins/waypoints/lib/jquery.waypoints.min.js"></script>
         <script src="../plugins/counterup/jquery.counterup.js"></script>
-
-        <!-- Page specific js -->
         <script src="assets/pages/jquery.dashboard.js"></script>
-
-        <!-- App js -->
         <script src="assets/js/jquery.core.js"></script>
         <script src="assets/js/jquery.app.js"></script>
 
