@@ -33,17 +33,10 @@ $query=mysqli_query($dbh,$sql);
        
         <title>Onroad Vehicle Breakdown Assistance :: Update Mechanic</title>
 
-        <!-- Switchery css -->
         <link href="../plugins/switchery/switchery.min.css" rel="stylesheet" />
-
-        <!-- Bootstrap CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-
-        <!-- App CSS -->
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-
-        <!-- Modernizr js -->
-       
+	    
     </head>
 
 
@@ -129,32 +122,23 @@ if($rowcount > 0)
                                 </div>
                              
                             </div>
-                            <!-- end row -->
-
-
+                            
                         </div>
-                    </div><!-- end col-->
-
+                    </div>
                 </div>
-                <!-- end row -->
-
-            </div> <!-- container -->
+                
+            </div> 
 
 <?php include_once('includes/footer.php');?>
 
         </div> <!-- End wrapper -->
 
-        <!-- jQuery  -->
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <script src="assets/js/waves.js"></script>
         <script src="assets/js/jquery.nicescroll.js"></script>
         <script src="../plugins/switchery/switchery.min.js"></script>
-
-        <!-- Validation js (Parsleyjs) -->
         <script src="../plugins/parsleyjs/parsley.min.js"></script>
-
-        <!-- App js -->
         <script src="assets/js/jquery.core.js"></script>
         <script src="assets/js/jquery.app.js"></script>
 
