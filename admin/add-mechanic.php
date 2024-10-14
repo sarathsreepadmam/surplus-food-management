@@ -39,16 +39,9 @@ echo "<script>window.location.href ='add-mechanic.php'</script>";
        
         <title>On Road Vechile Management System :: Add Mechanic</title>
 
-        <!-- Switchery css -->
         <link href="../plugins/switchery/switchery.min.css" rel="stylesheet" />
-
-        <!-- Bootstrap CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-
-        <!-- App CSS -->
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-
-        <!-- Modernizr js -->
        
     </head>
 
@@ -145,17 +138,12 @@ echo "<script>window.location.href ='add-mechanic.php'</script>";
 
         </div> <!-- End wrapper -->
 
-        <!-- jQuery  -->
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <script src="assets/js/waves.js"></script>
         <script src="assets/js/jquery.nicescroll.js"></script>
         <script src="../plugins/switchery/switchery.min.js"></script>
-
-        <!-- Validation js (Parsleyjs) -->
         <script src="../plugins/parsleyjs/parsley.min.js"></script>
-
-        <!-- App js -->
         <script src="assets/js/jquery.core.js"></script>
         <script src="assets/js/jquery.app.js"></script>
 
