@@ -7,19 +7,11 @@
         <meta name="description" content="A fully featured admin theme which can be used to build CRM, CMS, etc.">
         <meta name="author" content="Coderthemes">
 
-        <!-- App Favicon -->
         <link rel="shortcut icon" href="assets/images/favicon.ico">
-
-        <!-- App title -->
         <title>Uplon - Bootstrap 4 Responsive Admin Dashboard Template</title>
 
-        <!-- Bootstrap CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-
-        <!-- App CSS -->
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-
-        <!-- Modernizr js -->
         <script src="assets/js/modernizr.min.js"></script>
 
     </head>
@@ -111,7 +103,6 @@
                     <div class="clearfix"></div>
                 </div>
             </div>
-            <!-- end card-box-->
 
             <div class="m-t-20">
                 <div class="text-center">
@@ -120,20 +111,14 @@
             </div>
 
         </div>
-        <!-- end wrapper page -->
 
 
-        
-
-        <!-- jQuery  -->
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <script src="assets/js/detect.js"></script>
         <script src="assets/js/waves.js"></script>
         <script src="assets/js/jquery.nicescroll.js"></script>
         <script src="../plugins/switchery/switchery.min.js"></script>
-
-        <!-- App js -->
         <script src="assets/js/jquery.core.js"></script>
         <script src="assets/js/jquery.app.js"></script>
 
